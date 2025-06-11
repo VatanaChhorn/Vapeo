@@ -1,7 +1,7 @@
 # Privacy Policy for Vapeo: Quit Vaping
 
-**Effective Date:** December 26, 2024  
-**Last Updated:** December 26, 2024
+**Effective Date:** Thursday, June 12, 2025
+**Last Updated:** Thursday, June 12, 2025
 
 ## Introduction
 
