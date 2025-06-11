@@ -132,7 +132,7 @@ Our app is designed to work globally, but all data processing occurs locally on 
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** vatanachhorn@icloud.com
+**Email:** onlyvatana22@gmail.com
 **Subject Line:** Vapeo Privacy Policy Inquiry
 
 ## Consent
