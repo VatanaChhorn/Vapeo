@@ -1,7 +1,7 @@
 # Privacy Policy for Vapeo: Quit Vaping
 
 **Effective Date:** Thursday, June 12, 2025<br>
-**Last Updated:** Thursday, June 12, 2025
+**Last Updated:** Thursday, June 21, 2025
 
 ## Introduction
 
@@ -58,6 +58,12 @@ Welcome to Vapeo: Quit Vaping ("we," "our," or "us"). We are committed to protec
 ### Analytics Services
 We may use anonymized analytics services to understand app usage patterns and improve our service. These services receive only aggregated, non-personal data.
 
+### Subscription Management
+- **RevenueCat**: We use RevenueCat to manage subscriptions and validate premium features
+- RevenueCat processes subscription status and receipt validation data
+- No personal payment information is stored by us or shared with RevenueCat
+- RevenueCat's privacy policy governs their data handling practices
+
 ### AI Processing
 - AI insights are generated using Google's Gemini API (free tier)
 - Only anonymized, aggregated data summaries are sent (never raw personal data)
@@ -102,18 +108,27 @@ We may share anonymized, aggregated data only in these circumstances:
 
 Our app is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
-## Premium Features (Future)
+## Premium Features
 
-If we introduce premium features in the future:
-- Additional privacy protections will be implemented
-- Payment processing will be handled by Apple's secure payment system
-- No financial information will be stored by us
-- This privacy policy will be updated to reflect any changes
+We offer premium subscription features with the following privacy protections:
+
+### Subscription Information
+- **Pricing**: $9.99 USD per month with a 7-day free trial
+- **Auto-renewal**: Subscriptions automatically renew unless cancelled at least 24 hours before the current period ends
+- **Payment Processing**: All payments are handled securely by Apple's App Store
+- **No Financial Data Storage**: We do not store any payment or financial information
+
+### Subscription Data Handling
+- **Subscription Status**: We use RevenueCat to validate subscription status and unlock premium features
+- **Receipt Validation**: Subscription receipts are validated through Apple's servers and RevenueCat
+- **No Personal Payment Info**: No credit card numbers, billing addresses, or payment details are collected or stored by us
+- **Premium Feature Usage**: Usage of premium features may be tracked for analytics (anonymized)
 
 ## Data Retention
 
 - **Personal Data**: Remains in your private iCloud storage until you delete it
 - **Device Synchronization**: Data persists across all your Apple devices until removed
+- **Subscription Data**: Subscription status and validation data is retained by RevenueCat according to their data retention policies
 - **Analytics Data**: Anonymized usage patterns may be retained for app improvement
 - **AI Analysis Cache**: Temporary insights are cached locally and automatically expire
 
@@ -132,7 +147,7 @@ Our app is designed to work globally, but all data processing occurs locally on 
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** onlyvatana22@gmail.com
+**Email:** vatanachhorn@icloud.com
 **Subject Line:** Vapeo Privacy Policy Inquiry
 
 ## Consent
