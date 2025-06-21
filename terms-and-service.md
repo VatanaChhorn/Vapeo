@@ -1,7 +1,7 @@
 # Terms of Service for Vapeo: Quit Vaping
 
 **Effective Date:** Thursday, June 12, 2025<br>
-**Last Updated:** Thursday, June 12, 2025
+**Last Updated:** Thursday, June 21, 2025
 
 ## Introduction
 
@@ -107,17 +107,35 @@ You agree not to:
 - The App is not designed for emergency health situations
 - If you experience health emergencies, contact emergency services immediately
 
-## 9. Premium Features (Future)
+## 9. Premium Features and Subscription
 
-### 9.1 Potential Premium Services
-- We may introduce premium features in the future
-- Premium features may include unlimited AI analyses and additional insights
-- Pricing and terms for premium features will be communicated separately
+### 9.1 Premium Subscription
+- We offer premium features through a subscription service
+- **Pricing**: $9.99 USD per month with a 7-day free trial
+- Premium features include unlimited AI analyses and additional insights
+- Subscription automatically renews unless cancelled at least 24 hours before the current period ends
 
-### 9.2 Payment Terms
-- All payments for premium features will be processed through Apple's App Store
-- Subscriptions will be governed by Apple's Terms of Service
+### 9.2 Free Trial Terms
+- New subscribers receive a 7-day free trial period
+- You can cancel anytime during the trial period without charge
+- If you don't cancel before the trial ends, you will be charged the monthly subscription fee
+- Free trial is available once per Apple ID
+
+### 9.3 Payment and Billing
+- All payments are processed through Apple's App Store
+- Subscriptions are governed by Apple's Terms of Service
 - We do not store your payment information
+- Subscription management (including cancellation) is handled through your Apple ID account settings
+
+### 9.4 Subscription Management
+- We use RevenueCat to manage subscription validation and premium feature access
+- RevenueCat processes subscription status and receipt validation
+- No personal payment information is shared with RevenueCat
+
+### 9.5 Refunds
+- Refund requests are subject to Apple's App Store refund policy
+- We do not process refunds directly
+- Contact Apple Support for refund requests
 
 ## 10. Intellectual Property
 
@@ -137,7 +155,12 @@ You agree not to:
 - Your use of these services is subject to Apple's Terms of Service
 - We are not responsible for any issues with third-party services
 
-### 11.2 Analytics Services
+### 11.2 Subscription Management Services
+- We use RevenueCat to manage premium subscriptions and validate purchases
+- RevenueCat's terms of service and privacy policy apply to their data processing
+- RevenueCat processes subscription status but does not have access to your personal payment information
+
+### 11.3 Analytics Services
 - We may use third-party analytics services with anonymized data only
 - These services help us improve the App's performance and user experience
 
@@ -181,6 +204,8 @@ You agree to indemnify, defend, and hold harmless us, our affiliates, officers, 
 ### 15.3 Effect of Termination
 - Upon termination, your right to use the App ceases immediately
 - Data stored in your iCloud container will remain under your control
+- Active subscriptions will continue until the end of the current billing period
+- You will lose access to premium features when your subscription expires
 - Provisions that should survive termination will remain in effect
 
 ## 16. Privacy
